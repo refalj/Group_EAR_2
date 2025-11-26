@@ -1,10 +1,7 @@
-Report for Sara (Date: 75756)
-Behaviour: 7757
-Health Status: jghgh
-Activities: jghg
-Additional Notes: hjhg
----------------------------------------------------------------------------------
 
+child
+First Name: Ahmad, Last Name: Youssof, ID:1111155289, Gender: Boy, Birth Date: 12/8/2023, Email: Mom@gmail.com, Phone: 0555555555, Allergy Information: all types of nuts, Chronic Diseases: nothing, General Notes: nothing, Password: ChildAhmad
+---------------------------------------------------------------------------------
 Teacher
 First Name: Noha, Last Name: Mohammed, ID:1155889966, Gender: Girl, Birth Date: 7/11/1997, Email: Noha@gmail.com, Phone: 0555442255, Role: Teacher, Status: Active, Password: TeacherNoha
 ---------------------------------------------------------------------------------
@@ -13,6 +10,12 @@ First Name: Sophia, Last Name: Naif, ID:1122639966, Gender: Girl, Birth Date: 19
 ---------------------------------------------------------------------------------
 child
 First Name: Sara, Last Name: Khalid, ID:1111198999, Gender: Girl, Birth Date: 19/8/2023, Email: Mom@gmail.com, Phone: 0555665335, Allergy Information: nothing, Chronic Diseases: nothing, General Notes: nothing, Password: ChildSara
+---------------------------------------------------------------------------------
+child
+First Name: Rayan, Last Name: Saleh, ID:1111177777, Gender: Boy, Birth Date: 30/9/2023, Email: MomRayan@gmail.com, Phone: 0555588888, Allergy Information: Milk, Chronic Diseases: none, General Notes: very active, Password: ChildRayan
+---------------------------------------------------------------------------------
+child
+First Name: Lana, Last Name: Hassan, ID:1111133344, Gender: Girl, Birth Date: 5/10/2023, Email: MomLana@gmail.com, Phone: 0555577332, Allergy Information: none, Chronic Diseases: none, General Notes: calm and friendly, Password: ChildLana
 ---------------------------------------------------------------------------------
 This the footer
 thanks!
